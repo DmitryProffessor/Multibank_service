@@ -2,9 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)](https://tensorflow.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
-An intelligent personal savings optimization system using Deep Reinforcement Learning.
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## 📋 Table of Contents
 
