@@ -55,8 +55,3 @@ AI Financial Advisor is a reinforcement learning-based system that helps optimiz
 - pip package manager
 
 ### Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/your-username/ai-financial-advisor.git
-cd ai-financial-advisor
